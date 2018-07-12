@@ -1,0 +1,17 @@
+
+@font-face {
+  font-family: 'BrandonGrotesque';
+  src: url('./fonts/BrandonGrotesque-Bold.eot?#iefix') format('embedded-opentype'),  url('./fonts/BrandonGrotesque-Bold.otf')  format('opentype'),
+	     url('./fonts/BrandonGrotesque-Bold.woff') format('woff'), url('./fonts/BrandonGrotesque-Bold.ttf')  format('truetype'), url('./fonts/BrandonGrotesque-Bold.svg#BrandonGrotesque-Bold') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'BrandonGrotesque';
+  src: url('./fonts/BrandonGrotesque-Medium.eot?#iefix') format('embedded-opentype'),  url('./fonts/BrandonGrotesque-Medium.otf')  format('opentype'),
+	     url('./fonts/BrandonGrotesque-Medium.woff') format('woff'), url('./fonts/BrandonGrotesque-Medium.ttf')  format('truetype'), url('./fonts/BrandonGrotesque-Medium.svg#BrandonGrotesque-Medium') format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
